@@ -1,0 +1,6 @@
+@article{REPO-353,
+    author = "Runge, Frederic and Stoll, Danny and Falkner, Stefan and Hutter, Frank",
+    journal = "arXiv preprint arXiv:1812.11951",
+    title = "{Learning to Design RNA}",
+    year = "2018"
+}
